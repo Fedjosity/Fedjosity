@@ -26,12 +26,6 @@ I specialize in **React.js, Next.js, Tailwind CSS, and Node.js**, creating seaml
 - ## 📫 How to Reach Me
 - **Email:** [fedjostayomide@gmail.com](mailto:fedjostayomide@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/fedjostayomide]([https://linkedin.com/in/ayomide](https://www.linkedin.com/in/fedjostayomide))
-- 💼 Portfolio: [Visit My Portfolio]([mailto:fedjostayomide@gmail.com](https://fedjostayomideportfolio-g20krhg3h-fedjositys-projects.vercel.app))  
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub streak stats" height="165"/>
-</p>
+- 💼 Portfolio: [Visit My Portfolio](https://fedjostayomideportfolio-g20krhg3h-fedjositys-projects.vercel.app)  
 
 💡 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
